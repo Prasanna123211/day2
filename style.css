@@ -1,0 +1,73 @@
+html,body{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    justify-content: space-around;
+    margin: 0px;
+}
+.first{
+    display: flex;
+}
+.box1{
+    height: 100px;
+    width: 400px;
+    background-color: green;
+    margin-right: 30px;
+}
+.box2{
+    height:120px;
+    width: 200px;
+    background-color: rgb(248, 94, 5);
+    margin-right: 30px;
+}
+.box3{
+background-color: rgb(97, 93, 93);
+height: 70px;
+width: 200px;
+}
+.second{
+    margin-top: 6px;
+display: flex;
+}
+.box4{
+    background-color: rgb(86, 86, 229);
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+}
+.box5{
+    background-color: yellow;
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+}
+.box6{
+    background-color: rgb(138, 57, 230);
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+}
+.box7{
+    height: 90px;
+    background-color: brown;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.last{
+    margin-top: 20px;
+    display: flex;
+}
+.box8{
+    background-color: greenyellow;
+    height: 100px;
+    width: 200px;
+}
+.box9{
+    background-color: palevioletred;
+    height: 100px;
+    width: 660px;
+    margin-left: 20px;
+}
